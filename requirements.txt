@@ -1,0 +1,11 @@
+django
+psycopg2
+django-filter
+djangorestframework
+mysqlclient
+pyyaml
+requests
+django-cors-headers
+django-rest-swagger
+Pillow
+drf_yasg
